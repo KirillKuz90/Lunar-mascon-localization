@@ -1,4 +1,5 @@
-# Lunar-mascon-localization
+# Локализация масконов Луны
 
-# Acknowledgements
-Work is greatly supported by Non-commercial Foundation for the Advancement of Science and Education INTELLECT, and my mentor, Sergey Kolpinskiy
+
+# Благодарности
+Работа выполнена при большой поддержке Некоммерческого фонда содействия развитию науки и образования «ИНТЕЛЛЕКТ» и моего наставника Никиты Белякова
